@@ -1,0 +1,19 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/thoughtbeats"
+    tools:context=".fragment.HomeFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="15dp"
+        android:layout_marginStart="30dp"
+        android:gravity="start"
+        android:text="Welcome to Thought Beats"
+        android:textAllCaps="true"
+        android:textColor="#f4eff1"
+        android:textStyle="bold|italic" />
+
+</FrameLayout>
